@@ -1,0 +1,259 @@
+[ 
+  {
+    "id": "mocking_spongebob.jpg",
+    "tags": ["mocking", "sarcasm", "childish", "repeat", "mimic"],
+    "caption_style": "single-caption",
+    "description": "Spongebob mocking something by repeating it in a weird voice.",
+    "text": "inside"
+  },
+  {
+    "id": "success_kid.jpg",
+    "tags": ["victory", "win", "achievement", "luck", "unexpected"],
+    "caption_style": "top-bottom",
+    "description": "Kid clenching fist. Used for unexpected wins or small victories.",
+    "text": "inside"
+  },
+  {
+    "id": "disaster_girl.jpg",
+    "tags": ["chaos", "evil", "dark humor", "fire", "destruction"],
+    "caption_style": "top-bottom",
+    "description": "Smiling girl in front of a burning house. Used for jokes about causing chaos.",
+    "text": "inside"
+  },
+  {
+    "id": "is_this_a_pigeon.jpg",
+    "tags": ["confusion", "misunderstanding", "mistake", "wrong label"],
+    "caption_style": "dialogue",
+    "description": "Anime guy pointing at butterfly. Used for misidentification or confusion.",
+    "text": "inside"
+  },
+  {
+    "id": "philosoraptor.jpg",
+    "tags": ["question", "thinking", "philosophy", "logic"],
+    "caption_style": "single-caption",
+    "description": "A raptor pondering deeply. Great for existential or humorous questions.",
+    "text": "inside"
+  },
+  {
+    "id": "surprised_pikachu.jpg",
+    "tags": ["shock", "reaction", "consequences", "sarcasm","surprise"],
+    "caption_style": "single-caption",
+    "description": "Pikachu looking shocked. Used when someone's actions have predictable consequences.",
+    "text": "top"
+  },
+  {
+    "id": "roll_safe.jpg",
+    "tags": ["sarcasm", "logic", "clever", "bad decisions", "irony"],
+    "caption_style": "top-bottom",
+    "description": "Man pointing to head as if being clever. Used to show faulty logic or smart-sounding nonsense.",
+    "text": "inside"
+  },
+  {
+    "id": "squidward_window.jpg",
+    "tags": ["jealousy", "watching", "sadness", "left out"],
+    "caption_style": "single-caption",
+    "description": "Squidward looking out at Spongebob and Patrick. Perfect for FOMO or feeling left out.",
+    "text": "inside"
+  },
+  {
+    "id": "awkward_moment_seal.jpg",
+    "tags": ["awkward", "social anxiety", "embarrassment"],
+    "caption_style": "single-caption",
+    "description": "Seal looking uncomfortably to the side. Used for moments of social awkwardness.",
+    "text": "inside"
+  },
+  {
+    "id": "waiting_skeleton.jpg",
+    "tags": ["delay", "waiting", "boredom"],
+    "caption_style": "single-caption",
+    "description": "Skeleton sitting and waiting. Represents eternal patience or procrastination.",
+    "text": "inside"
+  },
+  {
+    "id": "suprised_cat.jpg",
+    "tags": ["surprise", "shock", "concern", "worry", "cat"],
+    "caption_style": "top-bottom",
+    "description": "A cat with wide, surprised eyes and an open mouth, looking upwards. Used to express shock, alarm, or unexpected realization.",
+    "text": "inside"
+  },
+  {
+    "id": "Futurama_Fry.jpg",
+    "tags": ["suspicious", "skeptical", "unsure", "thinking", "curiosity"],
+    "caption_style": "top-bottom",
+    "description": "Fry from Futurama squinting suspiciously. Used when unsure about something or when something seems off.",
+    "text": "inside"
+  },
+  {
+    "id": "seenu.jpg",
+    "tags": ["realization", "revelation", "ignorance", "shock", "oblivion"],
+    "caption_style": "top-bottom",
+    "description": "A kid looking sideways with a slight frown. Often used for a sudden, unsettling realization about something that was always true.",
+    "text": "inside"
+  },
+  {
+    "id": "hawkeye.jpg",
+    "tags": ["hope", "disappointment", "sadness", "struggle", "emotional"],
+    "caption_style": "single-caption",
+    "description": "Hawkeye from Avengers saying 'Don't do that. Don't give me hope.' Used to express a plea not to be given false hope.",
+    "text": "inside"
+  },
+  {
+    "id": "ancient_aliens.jpg",
+    "tags": ["aliens", "conspiracy", "unexplained", "theory", "mind blown"],
+    "caption_style": "top-bottom",
+    "description": "Giorgio A. Tsoukalos from Ancient Aliens with his hands gesturing. Used to suggest a complex or unbelievable explanation, often involving aliens.",
+    "text": "inside"
+  },
+  {
+    "id": "kermit_sips.jpg",
+    "tags": ["sip tea", "none of my business", "observing", "gossip", "indifferent"],
+    "caption_style": "single-caption",
+    "description": "Kermit the Frog calmly sipping tea. Used to convey that something is not one's business, or to observe drama with detachment.",
+    "text": "inside"
+  },
+  
+  {
+    "id": "thanos.jpg",
+    "tags": ["sadness", "regret", "apology", "inevitable", "difficult choice"],
+    "caption_style": "single-caption",
+    "description": "Thanos saying 'I'm sorry, little one.' Used to express a reluctant or sad action that is deemed necessary.",
+    "text": "top"
+  },
+  {
+    "id": "backfiring_tom.jpg",
+    "tags": ["fail", "backfire", "karma", "unintended consequences", "self-sabotage"],
+    "caption_style": "single-caption",
+    "description": "Tom from Tom and Jerry with a shotgun backfiring into his own face. Used when an action or plan goes spectacularly wrong for the initiator.",
+    "text": "inside"
+  },
+  {
+   "id": "hide_the_pain.jpg",
+   "tags": ["pain", "hide the pain", "awkward", "uncomfortable", "forced smile", "Harold"],
+   "caption_style": "top-bottom",
+   "description": "An older man, 'Hide the Pain Harold', smiling uncomfortably while holding a mug and looking at the camera. Used to convey internal suffering or awkwardness despite a brave face.",
+    "text": "inside"
+  },
+  
+  {
+    "id": "thor_heros.jpg",
+    "tags": ["hero", "duty", "responsibility", "avengers", "thor"],
+    "caption_style": "single-caption",
+    "description": "Thor from Avengers saying 'Because that's what heroes do'. Used to justify a heroic or dutiful action, often with a hint of self-sacrifice or expected behavior.",
+    "text": "top"
+  },
+  {
+    "id": "emergency_meeting.jpg",
+    "tags": ["among us", "emergency", "meeting", "accusation", "discussion", "imposter"],
+    "caption_style": "single-caption",
+    "description": "The 'Emergency Meeting' screen from the game Among Us. Used to call attention to a problem or to start a serious discussion, often in a humorous context.",
+    "text": "inside"
+  },
+  {
+    "id": "alien_god.jpg",
+    "tags": ["superiority", "god-like", "looking down", "insignificance", "perspective", "alien"],
+    "caption_style": "top-bottom",
+    "description": "An ethereal, giant alien figure looking down upon smaller beings. Used to depict a feeling of superiority, or to show a vast difference in power, intelligence, or perspective between two entities.",
+    "text": "inside"
+  },
+  {
+    "id": "single_taken.jpg",
+    "tags": ["relationship status", "dating", "options", "single", "taken", "other"],
+    "caption_style": "fill-in-the-blank",
+    "description": "A multiple-choice option for relationship status with 'Single' and 'Taken', and a third option circled that is blank. Used to humorously indicate a relationship status that doesn't fit the conventional categories, often implying something complicated, absurd, or niche.",
+    "text": "inside"
+  },
+  {
+    "id": "helth.jpg",
+    "tags": ["stonks", "health", "misspelling", "ironic", "bad advice", "doctor"],
+    "caption_style": "single-caption",
+    "description": "Mememan (Stonks Guy) dressed as a doctor in front of a heartbeat monitor, with the misspelled word 'Helth'. Used ironically to comment on questionable health advice, poor life choices, or a general lack of understanding about well-being.",
+    "text": "inside"
+  },
+  {
+    "id": "dobby_dog.jpg",
+    "tags": ["dog", "waiting", "hungry", "anticipation", "food", "bbq"],
+    "caption_style": "top-bottom",
+    "description": "A man grilling while a small dog stands on its hind legs, seemingly waiting for food. Used to express eager anticipation or waiting for something, often food.",
+    "text": "inside"
+  },
+  {
+    "id": "cough_cat.jpg",
+    "tags": ["cat", "coughing", "disgusted", "shock", "gross", "reaction"],
+    "caption_style": "no-caption",
+    "description": "A cat with its mouth open, tongue sticking out slightly, and wide eyes, appearing to be coughing or in distress. Used to represent a visceral reaction of disgust, shock, or discomfort.",
+    "text": "inside"
+  },
+  {
+   "id": "loki.jpg",
+   "tags": ["loki", "avengers", "denial", "disassociation", "pretending", "ignorance"],
+   "caption_style": "single-caption",
+   "description": "Loki from Avengers saying 'I've never met this man in my life'. Used to humorously deny any association or knowledge of someone or something, often to distance oneself from an embarrassing or problematic situation.",
+    "text": "top"
+  },
+  {
+    "id": "ussr.jpg",
+    "tags": ["chernobyl", "soviet union", "duty", "loyalty", "sacrifice", "military","dedication"],
+    "caption_style": "single-caption",
+    "description": "General Tarakanov from HBO's Chernobyl saying 'I serve the Soviet Union'. Used to express unwavering dedication, loyalty, or commitment to a cause or entity, often in a serious or ironic manner.",
+    "text": "top"
+  },
+
+  {
+   "id": "gavin.jpg",
+   "tags": ["discomfort", "awkwardness", "forced smile", "uncomfortable", "cringing"],
+   "caption_style": "top-bottom",
+   "description": "A young boy, known as Gavin Thomas, making a forced or uncomfortable smile/face. Used to express awkwardness, embarrassment, or internal discomfort in a relatable way.",
+    "text": "inside"
+  },
+  {
+    "id": "good_shrek.jpg",
+    "tags": ["shrek", "question", "pondering", "thought", "inquiry", "reflection"],
+    "caption_style": "single-caption",
+    "description": "Shrek looking thoughtful with the caption 'Good Question'. Used as a response when someone asks a truly insightful, difficult, or surprisingly relevant question.",
+    "text": "top"
+  },
+  {
+    "id": "change_teams.jpg",
+    "tags": ["rocket league", "change", "switch", "decision", "reconsideration", "options"],
+    "caption_style": "single-caption",
+    "description": "A screenshot from Rocket League showing the 'Change Team' option highlighted in a menu. Used to humorously suggest changing sides, opinions, or affiliations in various contexts, or reconsidering a decision.",
+    "text": "top"
+  },
+  {
+    "id": "clown_ride.jpg",
+    "tags": ["clown", "roller coaster", "unimpressed", "stoic", "contrast", "reaction"],
+    "caption_style": "no-caption",
+    "description": "A muscular person dressed as a clown sitting expressionless on a roller coaster while others behind them are screaming and excited. Used to convey an unimpressed or stoic reaction to something others find thrilling or shocking.",
+    "text": "inside"
+  },
+  
+  {
+    "id": "language_of_god.jpg",
+    "tags": ["dragon ball z", "vegeta", "understanding", "intelligence", "profound", "enlightenment", "gods"],
+    "caption_style": "single-caption",
+    "description": "Vegeta from Dragon Ball Z looking impressed with the caption 'He is speaking the language of gods.' Used to express admiration or surprise when someone says something particularly insightful, profound, or complex that only a select few can truly grasp.",
+    "text": "top"
+  },
+  {
+    "id": "jojo.jpg",
+    "tags": ["jojo", "dio brando", "satisfaction", "conclusion", "enough", "approval"],
+    "caption_style": "single-caption",
+    "description": "Dio Brando from JoJo's Bizarre Adventure saying 'I've seen enough. I'm satisfied.' Used when you've witnessed something reach its logical (or absurd) conclusion and are content with the outcome.",
+    "text": "top"
+  },
+
+  {
+    "id": "RICK.jpg",
+    "tags": ["rick and morty", "rick sanchez", "blame", "system", "philosophy", "responsibility"],
+    "caption_style": "single-caption",
+    "description": "Rick Sanchez from Rick and Morty saying 'Don't hate the player, hate the game, son.' Used to shift blame from an individual's actions to the larger system or circumstances that influenced those actions, often in a cynical or philosophical way.",
+    "text": "top"
+  },
+  {
+    "id": "further_from_god.jpg",
+    "tags": ["perry the platypus", "straying", "morality", "absurdity", "disappointment", "society"],
+    "caption_style": "single-caption",
+    "description": "A person in a Perry the Platypus costume with the caption 'Every day. We stray further from god.' Used to react to something particularly strange, immoral, or nonsensical that pushes the boundaries of acceptable behavior or common sense.",
+    "text": "top"
+  }
+]

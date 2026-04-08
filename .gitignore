@@ -1,0 +1,47 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+.env/
+.env.*
+.env
+token.env
+# =========================
+# Logs & Temp Files
+# =========================
+*.log
+*.tmp
+
+# =========================
+# OS-specific files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor files
+# =========================
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# Test artifacts
+# =========================
+.pytest_cache/
+coverage/
+htmlcov/
+
+# =========================
+# Secrets / Config Overrides
+# =========================
+secrets.json
+
